@@ -9,5 +9,10 @@ This project explores the dynamics of online conversations on Reddit by applying
 4. Edit `config.py`.
 5. Run `python main.py`.
 
-![Screenshot](result/radar_chart.png)
-![Screenshot](result/violin.png)
+![Screenshot](result/plot_post_1eta0fd_subreddit_politics_Network.png)
+![Screenshot](result/plot_post_1eta0fd_subreddit_politics_angular_magnitude_correlation.png)
+![Screenshot](result/plot_post_1eta0fd_subreddit_politics_angular_magnitude_histogram.png)
+![Screenshot](result/plot_post_1eta0fd_subreddit_politics_angular_magnitude_timeseries.png)
+
+
+
