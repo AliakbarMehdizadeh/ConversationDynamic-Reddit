@@ -23,14 +23,23 @@ This project investigates the dynamics of online conversations on Reddit using v
 
 ![Screenshot](result/plot_post_1eta0fd_subreddit_politics_Network.png)
 
-### Dynamics of Sentence Embedding as Conversation unfolds: 
+### Time sereis Representation of Conversation over Embedding Space: 
 
-![Screenshot](result/plot_post_1eta0fd_subreddit_politics_angular_magnitude_correlation.png)
-![Screenshot](result/plot_post_1eta0fd_subreddit_politics_angular_magnitude_histogram.png)
-
-### Time sereis Representation of Conversation: 
+An interesting question here is whether different subreddits or conversations demonstrate different distributions or not. Why?
 
 ![Screenshot](result/plot_post_1eta0fd_subreddit_politics_angular_magnitude_timeseries.png)
+![Screenshot](result/plot_post_1eta0fd_subreddit_politics_angular_magnitude_histogram.png)
+
+### Autocorrelation Function and Partial Autocorrelation Function of Sentence Embedding:
+
+This highlights the fact that conversations include memory and can be described using appropriate ARIMA models.
+
+![Screenshot](result/plot_post_1eta0fd_subreddit_politics_angular_magnitude_correlation.png)
+
+
+
+
+
 
 
 
